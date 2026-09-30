@@ -8,12 +8,12 @@ import matplotlib.pyplot as plt
 from PIL import Image
 
 lista_possibili_cartelle_lavoro = [
-    '/media/daniele/Daniele2TB/test/gif_radar',
-    '/run/media/daniele.carnevale/Daniele2TB/test/gif_radar',
+    '/media/daniele/Daniele2TB/repo/gif_radar',
+    '/run/media/daniele.carnevale/Daniele2TB/repo/gif_radar',
 ]
 
 lista_possibili_ARC_STORICO = [
-    '/media/daniele/Daniele2TB/test/piccolo_ARC_STORICO',
+    '/media/daniele/Daniele2TB/piccolo_ARC_STORICO',
     '/mnt/ARC_STORICO',
 ]
 
